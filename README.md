@@ -19,4 +19,5 @@ This repository will hold sample Python Notebooks which can help anyone to learn
 8. Control flow for loop
 9. Control flow break and continue
 10. Python List
+11. Python Tuples
 
