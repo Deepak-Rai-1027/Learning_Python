@@ -9,15 +9,15 @@
 
 This repository will hold sample Python Notebooks which can help anyone to learn the basic programming in Python. Hope you find it useful, and if you do please see if you would like to Buy me a Coffee. 
 
-1. Keywords and identifiers
+1. Keywords and Identifiers
 2. Comments, Indentation and Statements
 3. Variables and Data Types in Python
 4. Standard Input and Output
-5. Operators
+5. Python Operators
 6. Control flow if...else
-7. Control flow while loop
-8. Control flow for loop
-9. Control flow break and continue
+7. Control flow while...loop
+8. Control flow for...loop
+9. Control flow Break and Continue
 10. Python List
 11. Python Tuples
 12. Python Sets
