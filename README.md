@@ -23,4 +23,5 @@ This repository will hold sample Python Notebooks which can help anyone to learn
 12. Python Sets
 13. Python Dictionary
 14. Python Strings
+15. Python Functions
 
