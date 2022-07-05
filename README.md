@@ -6,6 +6,7 @@
 
 <a href="https://www.buymeacoffee.com/daksh1981r" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 This repository will hold sample Python Notebooks which can help anyone to learn the basic programming in Python. Hope you find it useful, and if you do please see if you would like to Buy me a Coffee. 
 
