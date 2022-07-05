@@ -29,3 +29,4 @@ This repository will hold sample Python Notebooks which can help anyone to learn
 18. File Handling
 19. Exception Handling
 20. Debugging Python
+21. Python Numpy
